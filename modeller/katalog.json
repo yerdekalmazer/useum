@@ -1,0 +1,100 @@
+[
+ {
+  "ad": "zeynep",
+  "V": 55847,
+  "I": 333624,
+  "oturuyor": false,
+  "bank": null
+ },
+ {
+  "ad": "emre",
+  "V": 58850,
+  "I": 348564,
+  "oturuyor": false,
+  "bank": null
+ },
+ {
+  "ad": "selin",
+  "V": 40481,
+  "I": 239034,
+  "oturuyor": true,
+  "bank": -0.07
+ },
+ {
+  "ad": "aylin",
+  "V": 48997,
+  "I": 294228,
+  "oturuyor": false,
+  "bank": null
+ },
+ {
+  "ad": "kaan",
+  "V": 47393,
+  "I": 279786,
+  "oturuyor": false,
+  "bank": null
+ },
+ {
+  "ad": "mert",
+  "V": 48523,
+  "I": 288192,
+  "oturuyor": true,
+  "bank": -0.07
+ },
+ {
+  "ad": "ziyaretci",
+  "V": 50559,
+  "I": 298902,
+  "oturuyor": false,
+  "bank": null
+ },
+ {
+  "ad": "eslesen",
+  "V": 44880,
+  "I": 264780,
+  "oturuyor": false,
+  "bank": null
+ },
+ {
+  "ad": "zeynep_dusuk",
+  "V": 7707,
+  "I": 45744,
+  "oturuyor": false,
+  "bank": null
+ },
+ {
+  "ad": "emre_dusuk",
+  "V": 8420,
+  "I": 49794,
+  "oturuyor": false,
+  "bank": null
+ },
+ {
+  "ad": "aylin_dusuk",
+  "V": 6980,
+  "I": 41892,
+  "oturuyor": false,
+  "bank": null
+ },
+ {
+  "ad": "kaan_dusuk",
+  "V": 6801,
+  "I": 40116,
+  "oturuyor": false,
+  "bank": null
+ },
+ {
+  "ad": "ziyaretci_dusuk",
+  "V": 7153,
+  "I": 42222,
+  "oturuyor": false,
+  "bank": null
+ },
+ {
+  "ad": "eslesen_dusuk",
+  "V": 6395,
+  "I": 37668,
+  "oturuyor": false,
+  "bank": null
+ }
+]
